@@ -1,0 +1,57 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "This is a great stream",
+      "id": 3
+    },
+    {
+      "title": "Coding challenge",
+      "description": "React coding challenge",
+      "id": 4
+    },
+    {
+      "title": "Stream 4",
+      "description": "This is a totally new stream.",
+      "id": 5
+    },
+    {
+      "title": "Stream with userId",
+      "description": "Auth",
+      "userId": "110145019175427361879",
+      "id": 6
+    },
+    {
+      "title": "Metallica",
+      "description": "Spodek 1997",
+      "id": 7
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "userId": "110145019175427361879",
+      "id": 8
+    },
+    {
+      "title": "Aliens 3",
+      "description": "The making of Aliens3",
+      "userId": "110145019175427361879",
+      "id": 9
+    },
+    {
+      "title": "Dire Straits",
+      "description": "Brothers in Arms",
+      "id": 10
+    }
+  ]
+}
